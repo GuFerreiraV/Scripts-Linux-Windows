@@ -19,3 +19,6 @@
   * - Domingo
   Scripts/Scripts-No-Linux/clean_downloads  - O comando ou script a ser executado.
   >/dev/null 2>&1 - Redireciona a saída padrão (stdout) e a de erro (stderr) para o nada
+
+## Scritps Futuros 
+- Monitoramento de processos: Script para monitorar o uso cpu e ram além do comum e disparar uma mensagem para o usuário alertando-o e indicando software está consumindo mais que o necessário.
