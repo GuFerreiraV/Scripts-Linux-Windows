@@ -11,8 +11,8 @@ menu() {
     echo -e "${AZULCLARO}===== MENU DE COMANDOS =====${RESET}\n"
     
     echo -e "${AZULCLARO}===== Comandos PACMAN =====${RESET}"
-    echo "1)  sudo pacman -Syu            -> Atualiza o sistema (pacman)"
-    echo "2)  sudo pacman -S <pacote>     -> Instala um pacote (exemplo: sudo pacman -S firefox)"
+    echo "1) sudo pacman -Syu            -> Atualiza o sistema (pacman)"
+    echo "2) sudo pacman -S <pacote>     -> Instala um pacote (exemplo: sudo pacman -S firefox)"
     echo "3) sudo pacman -R <pacote>      -> Remove um pacote"
     echo "4) sudo pacman -Rs <pacote>     -> Remove um pacote e suas dependências não necessárias"
     echo "5) sudo pacman -Rsc <pacote>    -> Remove um pacote, as dependências não necessárias e configuração de arquivos associados ao pacote. Toma cuida carai"
